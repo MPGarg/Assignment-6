@@ -7,11 +7,11 @@
 ## Code Details
 
 Code is devided into five files. Four of them are py files & one ipynb file. Link for them are as below:
-  * model_cifar10.py [notebook](model_cifar10.py)
-  * model_transpose.py [notebook](model_transpose.py)
-  * train_test.py [notebook](train_test.py)
-  * utility.py [notebook](utility.py)
-  * EVA8_Assigment_6.ipynb [notebook](EVA8_Assigment_6.ipynb)
+  * model_cifar10.py [link](model_cifar10.py)
+  * model_transpose.py [link](model_transpose.py)
+  * train_test.py [link](train_test.py)
+  * utility.py [link](utility.py)
+  * EVA8_Assigment_6.ipynb [link](EVA8_Assigment_6.ipynb)
   
 All of these py files are imported into EVA8_Assigment_6.ipynb after uploading in google drive. model_cifar10.py contains a class by name Net that creates nueral network.
 
