@@ -39,6 +39,10 @@ Following is the list of functions that are called for different purpose:
 ![image](https://user-images.githubusercontent.com/120099863/216589699-753def6b-c3af-4110-a830-049cb3bbbcca.png)
 ![image](https://user-images.githubusercontent.com/120099863/216589870-5a636741-da01-40ad-a02f-f67fa832172f.png)
 
+**Receptive Field:**
+
+![image](https://user-images.githubusercontent.com/120099863/216605029-6b7b618e-d701-4e47-94d2-e541a8a4a944.png)
+
 **Performance Summary:**
  * Total Trainable Parameters: 79,684
  * Best Training Accuracy: 79.16%
