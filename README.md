@@ -42,7 +42,7 @@ Following is the list of functions that are called for different purpose:
 **Performance Summary:**
  * Total Trainable Parameters: 79,684
  * Best Training Accuracy: 79.16%
- * Best Test Accuracy: 85.00% (Epoch: 192)**
+ * Best Test Accuracy: 85.00% (Epoch: 192)
 
 **Training Log (last few steps):**
 
