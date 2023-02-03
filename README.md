@@ -37,7 +37,6 @@ Layers for Model:
 Summary of Model:
 
 ![image](https://user-images.githubusercontent.com/120099863/216589699-753def6b-c3af-4110-a830-049cb3bbbcca.png)
-
 ![image](https://user-images.githubusercontent.com/120099863/216589870-5a636741-da01-40ad-a02f-f67fa832172f.png)
 
 
