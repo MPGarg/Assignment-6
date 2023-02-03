@@ -34,5 +34,21 @@ Layers for Model:
  * Convolution Block 4
  * GAP
 
+Summary of Model:
+
+![image](https://user-images.githubusercontent.com/120099863/216589699-753def6b-c3af-4110-a830-049cb3bbbcca.png)
+
+![image](https://user-images.githubusercontent.com/120099863/216589870-5a636741-da01-40ad-a02f-f67fa832172f.png)
+
+
+Total Trainable Parameters: 79,684
+Best Training Accuracy: 79.16%
+Best Test Accuracy: 85.00% (Epoch: 192)
+
+Training Log (last few steps):
+
+![image](https://user-images.githubusercontent.com/120099863/216589237-7c887547-83e8-4850-b53f-7598ae29f9a1.png)
+
+
 
 
