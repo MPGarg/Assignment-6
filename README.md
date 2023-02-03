@@ -40,14 +40,21 @@ Summary of Model:
 ![image](https://user-images.githubusercontent.com/120099863/216589870-5a636741-da01-40ad-a02f-f67fa832172f.png)
 
 
-Total Trainable Parameters: 79,684
+**Total Trainable Parameters: 79,684
 Best Training Accuracy: 79.16%
-Best Test Accuracy: 85.00% (Epoch: 192)
+Best Test Accuracy: 85.00% (Epoch: 192)**
 
 Training Log (last few steps):
 
 ![image](https://user-images.githubusercontent.com/120099863/216589237-7c887547-83e8-4850-b53f-7598ae29f9a1.png)
 
+Accuracy & Loss Graph:
+
+![image](https://user-images.githubusercontent.com/120099863/216590404-6d296358-992d-459b-a1e3-4c94918f7962.png)
+
+Overall Prediction Summary:
+
+![image](https://user-images.githubusercontent.com/120099863/216590589-4dcf265f-542a-4aab-ad68-6ecdcda78a25.png)
 
 
 
