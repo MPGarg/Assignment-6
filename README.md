@@ -7,14 +7,32 @@
 ## Code Details
 
 Code is devided into five files. Four of them are py files & one ipynb file. Link for them are as below:
-  *
-  *
-  *
-  *
+  * model_cifar10.py [notebook](model_cifar10.py)
+  * model_transpose.py [notebook](model_transpose.py)
+  * train_test.py [notebook](train_test.py)
+  * utility.py [notebook](utility.py)
   * EVA8_Assigment_6.ipynb [notebook](EVA8_Assigment_6.ipynb)
   
 All of these py files are imported into EVA8_Assigment_6.ipynb after uploading in google drive. model_cifar10.py contains a class by name Net that creates nueral network.
 
 Following is the list of functions that are called for different purpose:
-  * load_data: Load transformations
-  * 
+  * load_data: Load transformations for mean and standard deviation calculation
+  * set_albumen_params: Albumentation library transformation
+  * tl_ts_mod: Apply augmentation to dataset
+  * train_test_model: Train & test function
+  * display_incorrect_pred: Show incorrect predictions
+
+## Model Design
+
+Layers for Model:
+ * Convolution Block 1
+ * Transition Block 1
+ * Convolution Block 2
+ * Transition Block 2
+ * Convolution Block 3 (It contains Depthwise Separable Convolution & Dilated Convolution)
+ * Transition Block 3
+ * Convolution Block 4
+ * GAP
+
+
+
